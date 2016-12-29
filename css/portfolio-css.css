@@ -1,0 +1,77 @@
+body {
+    position: relative;
+    top: 150px;
+    background-image: url(../img/DSC_0008-3-optim.jpg);
+    background-size: 100%;
+ }
+
+
+
+/*body>*padding-top: in order to avoid navbar overlaying other contant
+navbar height is 102px*/
+
+#section1 {
+    padding: 50px 0px 20px 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #9d9d9d;
+    font-size: 20px;
+}
+
+#section2 {
+    padding: 50px 0px 20px 0px;
+    /*background-color: rgba(128, 0, 128, 0.8);*/
+    /*color: #101010;*/
+    color: #fff;
+    /*font-size: 20px;*/
+}
+
+#section3 {
+    padding: 50px 0px 20px 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #9d9d9d;
+    font-size: 20px;
+}
+
+h1 {
+    padding: 10px 0px;
+}
+
+
+/*.h1-styled{
+ background-color: rgba(0, 0, 0, 0.7);
+ padding: 0px 10px;
+}*/
+
+.styled-icon-box {
+    font-size: 40px;
+}
+
+
+/*grey *rgba(128,128,128,0.9);*/
+
+
+/*.thumbnail-styled {
+    background-color: rgba(51, 51, 51, 0.9);
+}*/
+
+.navbar-brand {
+    padding: 0px;
+}
+
+.navbar-brand>img {
+    height: 100%;
+    padding: 5px 15px;
+    width: auto;
+}
+
+.panel-styled {
+    background-color: #222;
+    border-color: #080808;
+    color: #9d9d9d;
+    text-align: center;
+}
+
+.panel-styled>img {
+    height: 30px;
+    padding: 0px 5px;
+}
