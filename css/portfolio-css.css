@@ -110,8 +110,8 @@ h1 {
         padding-top: 10px;
         padding-bottom: 10px;
     }
-    .navbar-collapse.in {
-    overflow-y: auto !important;
+    .navbar-collapse.collapse.in {
+        display: block !important;
     }
 	
 }
