@@ -112,11 +112,9 @@ h1 {
         padding-bottom: 10px;
     }
 	
-	.collapse.in{
-  		display:block !important;
-	}
-    .navbar.collapse.in {
-        display: block !important;
+	 .collapse.in{
+        display:block !important;
     }
+
     
 }
