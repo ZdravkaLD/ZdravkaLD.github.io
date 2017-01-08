@@ -110,15 +110,11 @@ h1 {
         padding-top: 10px;
         padding-bottom: 10px;
     }
-     .collapse.in{
-        display:block !important;
+	.collapse.in{
+  		display:block !important;
+	}
+    .navbar.collapse.in {
+        display: block !important;
     }
-	
-     .navbar-collapse.in {
-  overflow-y: auto;
-}
-.navbar-collapse.in {
-    overflow-y: visible;
-  }
 	
 }
